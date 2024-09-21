@@ -1,0 +1,10 @@
+Flask==2.1.2
+# Flask-Admin==1.5.8
+git+https://github.com/flask-admin/flask-admin.git@master#egg=flask-admin
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.36
+Flask-Migrate==3.1.0
+google-cloud-firestore==2.7.1
+jinja2>=2.0,<3.1
+Werkzeug==2.0.3
+twilio==7.17.0
